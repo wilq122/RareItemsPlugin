@@ -1,0 +1,18 @@
+name: RareItems
+version: 1.0.0
+main: pl.yourname.rareitems.RareItemsPlugin
+api-version: 1.21
+author: YourName
+description: Plugin do rzadkich przedmiotów z wykopywania
+
+commands:
+  rareitems:
+    description: Główna komenda pluginu
+    usage: /rareitems
+    permission: rareitems.admin
+    aliases: [ri, rare]
+
+permissions:
+  rareitems.admin:
+    description: Uprawnienia administratora
+    default: op
