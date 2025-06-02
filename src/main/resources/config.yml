@@ -1,0 +1,28 @@
+# Szanse na znalezienie rzadkiego przedmiotu (w procentach)
+chances:
+  STONE: 0.1
+  DEEPSLATE: 0.1
+  COAL_ORE: 0.5
+  DEEPSLATE_COAL_ORE: 0.5
+  IRON_ORE: 1.0
+  DEEPSLATE_IRON_ORE: 1.0
+  COPPER_ORE: 1.0
+  DEEPSLATE_COPPER_ORE: 1.0
+  GOLD_ORE: 2.0
+  DEEPSLATE_GOLD_ORE: 2.0
+  LAPIS_ORE: 2.0
+  DEEPSLATE_LAPIS_ORE: 2.0
+  REDSTONE_ORE: 2.0
+  DEEPSLATE_REDSTONE_ORE: 2.0
+  DIAMOND_ORE: 5.0
+  DEEPSLATE_DIAMOND_ORE: 5.0
+  EMERALD_ORE: 5.0
+  DEEPSLATE_EMERALD_ORE: 5.0
+
+# Definicje rzadkich przedmiotów
+rare_items:
+  ancient_gem: "§6Starożytny Klejnot"
+  mystic_shard: "§5Mistyczny Odłamek"
+  dragon_scale: "§cŁuska Smoka"
+  phoenix_feather: "§eSkrzydło Feniksa"
+  void_crystal: "§8Kryształ Pustki"
