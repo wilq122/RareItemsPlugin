@@ -1,0 +1,8 @@
+# Format: rzadki_przedmiot:ilość:nagroda:ilość_nagrody
+trades:
+  - "ancient_gem:1:DIAMOND:3"
+  - "mystic_shard:2:NETHERITE_INGOT:1"
+  - "dragon_scale:1:ENCHANTED_GOLDEN_APPLE:2"
+  - "phoenix_feather:3:ELYTRA:1"
+  - "void_crystal:5:BEACON:1"
+  - "ancient_gem:5:DIAMOND_BLOCK:2"
